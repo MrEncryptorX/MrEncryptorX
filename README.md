@@ -16,28 +16,3 @@
 ##
 <div> 
   <a href="https://www.linkedin.com/in/matheus-cavalheiro20" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: '0 12 * * *' # Executa diariamente às 12h
-
-jobs:
-  generate_snake:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: Platane/snk@master
-      with:
-        username: seu-usuario
-        generate_svg: true
-        fill-color: '#ebedf0' # Cor de fundo
-        color: '#007ec6' # Cor da cobrinha
-        eye-color: '#6cc644' # Cor dos olhos
-        grid-size: 8
-        width: 800
-        height: 800
-
-    - uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        file: 'README.md'
-        commit_message: Update snake
