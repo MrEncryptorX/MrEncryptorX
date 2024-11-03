@@ -17,4 +17,8 @@
 <div> 
   <a href="https://www.linkedin.com/in/matheus-cavalheiro20" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-![snake gif](https://github.com/MrEncryptorX/MrEncryptorX/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrEncryptorX/MrEncryptorX/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrEncryptorX/MrEncryptorX/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MrEncryptorX/MrEncryptorX/output/github-contribution-grid-snake.svg">
+</picture>
