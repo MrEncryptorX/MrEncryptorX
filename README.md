@@ -2,7 +2,7 @@
 
 - 🌱 No momento estou aprendendo sobre Engenharia de dados.
 - 👯 Estou procurando colaborar em projetos de dados. 
-- 🤔 Estou procurando ajuda em POO em Python.
+- 🤔 Estou procurando ajuda em POO.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mat-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
