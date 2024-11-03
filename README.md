@@ -16,3 +16,5 @@
 ##
 <div> 
   <a href="https://www.linkedin.com/in/matheus-cavalheiro20" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+![snake gif](https://github.com/MrEncryptorX/MrEncryptorX/blob/output/github-contribution-grid-snake.svg)
